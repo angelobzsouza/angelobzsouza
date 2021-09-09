@@ -1,14 +1,14 @@
-<img width="auto" src="./cover_beer.jpg">
+<img width="auto" src="./header-github.jpg">
 
 # Angelo Souza
 
 ## Welcome, Stranger! 🧟‍♂️
-My name is Angelo Souza and I'm a backend software engineer.
+My name is Angelo Souza and I'm a software engineer.
 
- 🍺  &nbsp; I'm currently working at **Ze Delivery**
- <br/> :yellow_heart: &nbsp; Looking to collaborate on backend projects using Python or Node.js
+ 💰  &nbsp; I'm currently working at **Nubank**
+ <br/> :purple_heart: &nbsp; Looking to collaborate on backend projects using Python, Node.js or Clojure.
  <br/> :blush: &nbsp; I can help you with API development and maybe even a little bit of databases.
- <br/> :computer: &nbsp; My stack: Python, Flask, GraphQL, JavaScript, NodeJS, PHP, Laravel, Codeigniter, ReactJS.
+ <br/> :computer: &nbsp; My stack: Python, Flask, GraphQL, JavaScript, NodeJS, Clojure, PHP, Laravel, Codeigniter, ReactJS.
  <br/> 💬  &nbsp; About me: I like technology, games, beer, coffee and music. I even have a YouTube channel that you can access below.
  <br/> :email: &nbsp; Contact me:
  [![Linkedin Badge](https://img.shields.io/badge/-AngeloSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-souza-26592a42/)](https://www.linkedin.com/in/angelo-souza-26592a42/)
